@@ -9,7 +9,7 @@ git push -u origin main
 …or push an existing repository from the command line
 git remote add origin https://github.com/bencem04/teszt.git
 git branch -M main
-git push -u origin main
+git push -u origin main #feltölti az origin távoli repobe a commitokat
 további terminál parancsok
 git pull origin main #a friss repo letöltése
 git remote -v #aktuális távoli repo lekérdezése
@@ -20,3 +20,4 @@ cd .. #egy mappával feljebb
 mkdir <directoryname> #makedirectory
 rmdir <dn> #remove 
 ls #könyvtár listázásáa
+próbagit #gitgit 
