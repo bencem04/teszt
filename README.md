@@ -20,4 +20,4 @@ cd .. #egy mappával feljebb
 mkdir <directoryname> #makedirectory
 rmdir <dn> #remove
 ls #könyvtár listázásáa
-próbagit #gitgit 
+git commit -am ""message" #git #összes változtatás és commit egyben
